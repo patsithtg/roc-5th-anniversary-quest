@@ -1,0 +1,10 @@
+ROC 5th Anniversary Quest Community V1.0 — รุ่นทดสอบ
+1. สร้าง Firebase Project ใหม่ ห้ามใช้โปรเจกต์ส่วนตัว
+2. เปิด Authentication: Email/Password และ Google (กำหนด support email)
+3. สร้าง Firestore Database แล้วเผยแพร่ firestore.rules จากชุดนี้
+4. Register Web App — ตั้งค่า firebase-config.js ให้แล้ว
+5. สร้าง GitHub repo ใหม่ เช่น roc-5th-anniversary-quest อัปโหลดไฟล์ทั้งหมด เปิด Pages จาก main / root
+6. เพิ่ม patsithtg.github.io ใน Authentication > Settings > Authorized domains
+7. ทดสอบสมัคร ยืนยันอีเมล ล็อกอิน เพิ่ม ID ตัวละคร เควส ซิงก์สองอุปกรณ์ และแยกบัญชีสองคน
+8. ก่อนเผยแพร่จริง ตรวจสอบ privacy notice, abuse protection, quota, security rules และเงื่อนไขบริการ
+ข้อจำกัด: ยังไม่มีระบบแอดมินส่วนกลางหรือรูปตัวละคร ไม่มีการบันทึกออฟไลน์ ต้องออนไลน์เพื่อแก้ไข ข้อมูลสำรองใช้เฉพาะ Community V1 ไม่ใช่ V11
